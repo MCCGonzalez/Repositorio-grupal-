@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Prueba {
+public class TareaAyudante {
     public static void main(String[] args){
         int[] arreglo= new int[8];
         llenarRut(arreglo);
